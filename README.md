@@ -1,10 +1,10 @@
-# 🛡️ Active Directory Lab Project on Windows Server
+#  Active Directory Lab Project on Windows Server
 
 This project is a hands-on lab where I set up and configured **Active Directory Domain Services (AD DS)** using **Windows Server 2022**. The goal was to simulate a real-world environment for identity and access management and to build foundational skills in managing a Windows domain.
 
 ---
 
-## 📚 Overview
+##  Overview
 
 In this project, I built a virtual lab using a Windows Server 2022 virtual machine to:
 
@@ -18,7 +18,7 @@ In this project, I built a virtual lab using a Windows Server 2022 virtual machi
 
 ---
 
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 
 | Tool/Platform         | Purpose                             |
 |----------------------|-------------------------------------|
@@ -28,18 +28,18 @@ In this project, I built a virtual lab using a Windows Server 2022 virtual machi
 
 ---
 
-## ⚙️ Key Features
+##  Key Features
 
-- ✅ **Domain Controller Deployment**  
+-  **Domain Controller Deployment**  
   Installed and promoted a standalone Windows Server to a domain controller.
 
-- ✅ **User Account Automation**  
+-  **User Account Automation**  
   Automated bulk creation of user accounts from a `.txt` file using PowerShell.
 
-- ✅ **Organizational Units**  
+-  **Organizational Units**  
   Structured users by department or group into OUs.
 
-- ✅ **Group Policy (GPO)**  
+-  **Group Policy (GPO)**  
   Created and linked GPOs to apply security settings across the domain.
 
 ---
@@ -76,7 +76,7 @@ Client one is able to lease an IP address from the DHCP Server:  <br/>
 </p>
 
 
-## 🧠 Future Enhancements
+## Future Enhancements
 
 - Add more computers to the domain
 - Configure DNS and DHCP roles
@@ -84,15 +84,15 @@ Client one is able to lease an IP address from the DHCP Server:  <br/>
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 **Ifesola Fadare**  
 Aspiring Cybersecurity | SOC Analyst | Cloud Security  
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ifesola-fadare/)
+ Connect with me on [LinkedIn](https://www.linkedin.com/in/ifesola-fadare/)
 
 ---
 
-## 📝 License
+##  License
 
 This project is open-source and available under the [MIT License](LICENSE).
 
